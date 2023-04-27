@@ -1,10 +1,10 @@
 # Qeury_POS
 After ma clone ang project
-````
+
 opena
-````
+
 first sa diay pag himo daan ug database nga ang filename is: laravelpos
-````
+
 nya adto sa terminal nya itype ang:
 ````
 composer install 
